@@ -17,7 +17,8 @@ PENJELASAN PROGRAM
 ![01](https://user-images.githubusercontent.com/56815154/70245210-4d79e480-17a8-11ea-8703-141386a5b995.jpg)
 
 - Ketik : 't' , Untuk menambah data
-   Input Nama, NIM, Tugas, UTS, UAS. (bisa ditambah sebanyak - banyaknya)
+
+Input : Nama, NIM, Tugas, UTS, UAS. (bisa ditambah sebanyak - banyaknya)
    
 ![02](https://user-images.githubusercontent.com/56815154/70245211-4d79e480-17a8-11ea-9904-0233d0d3ef61.jpg)
 
@@ -26,8 +27,10 @@ PENJELASAN PROGRAM
 ![03](https://user-images.githubusercontent.com/56815154/70245212-4d79e480-17a8-11ea-95b9-1c30b28e06d4.jpg)
 
 - Ketik : 'u' ,Untuk mengubah data yang sudah diinputkan
-  Input Nama yang mau dirubah
-  Masukkan NIM, Tugas, UTS, UAS yang baru.
+
+Input : Nama yang mau dirubah
+
+Masukkan NIM, Tugas, UTS, UAS yang baru.
   
 ![04](https://user-images.githubusercontent.com/56815154/70245216-4e127b00-17a8-11ea-89dd-d1580ef8f6c9.jpg)
 
@@ -44,3 +47,5 @@ PENJELASAN PROGRAM
 - Ketik : 'k' ,Untuk keluar dari program.
 
 ![07](https://user-images.githubusercontent.com/56815154/70245219-4fdc3e80-17a8-11ea-910a-d594f27dfd59.jpg)
+
+- Program selesai
